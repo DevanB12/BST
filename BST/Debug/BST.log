@@ -1,0 +1,2 @@
+﻿  BST.cpp
+C:\Users\devan\source\repos\BST\BST.cpp(83): error C4716:  'BST<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::nodesCount': must return a value
